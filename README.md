@@ -1,5 +1,5 @@
-### Hello! 👋
-## I'm Wesley Barbosa da Silva
+#### Hello! 👋
+#### I'm Wesley Barbosa da Silva
 
 <div>
   <a href="https://github.com/wBarbosad">
